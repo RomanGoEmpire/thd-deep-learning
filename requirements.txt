@@ -1,2 +1,5 @@
-jupyter-notebook
+jupyter
+pandas
 numpy
+nnfs
+seaborn
